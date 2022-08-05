@@ -1,0 +1,2 @@
+# ES-essentials
+Elasticsearch essentials
