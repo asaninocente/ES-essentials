@@ -1,0 +1,5 @@
+PUT /{index}/_doc/{id}
+{
+  "field1": "value1",
+  "field2": "value2"
+}
