@@ -4,3 +4,5 @@ POST /{index}/{id}/_update
     "field1": "value1"
   }
 }
+
+# Does exactly the same as the PUT command in (2)
