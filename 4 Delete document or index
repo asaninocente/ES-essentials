@@ -1,1 +1,3 @@
 DELETE /{index}/_doc/{id}
+
+DELETE /{index}
