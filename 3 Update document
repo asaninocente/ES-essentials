@@ -1,0 +1,6 @@
+POST /{index}/{id}/_update
+{
+  "doc": {
+    "field1": "value1"
+  }
+}
